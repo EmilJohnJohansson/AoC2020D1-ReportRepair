@@ -1,0 +1,11 @@
+{
+  "name": "aoc2020d1-reportrepair",
+  "version": "1.0.0",
+  "description": "Find the two entries that sum to 2020 and then multiply those two numbers together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
